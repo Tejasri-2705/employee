@@ -101,4 +101,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- LinkedIn: [Tejasri Maradani](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Tejasri Maradani](https://www.linkedin.com/in/Tejasri-maradani)
