@@ -31,7 +31,7 @@ This project is an Employee Management System built using Spring Boot for the ba
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yadavmangesh07/EMS-React-With-SpringBoot
+    git clone https://github.com/Tejasri-2705/EMS-React-With-SpringBoot
     cd EMS-React-With-SpringBoot/frontend
     ```
 
@@ -101,4 +101,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- LinkedIn: [Mangesh Yadav](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Tejasri Maradani](https://www.linkedin.com/in/your-profile)
